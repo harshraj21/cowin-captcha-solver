@@ -9,7 +9,8 @@
 ```
 1. Convert the SVG data recieved from server to PNG data
 2. Rename the file to captcha.png
-3. run the solve.py
+3. Place inside the root level directory of the project
+4. run the solve.py
 ```
 
 ***Tech Used-***
