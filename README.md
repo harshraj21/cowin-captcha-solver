@@ -5,8 +5,8 @@
 
 > The purpose of this project is to help those developers making scripts for auto booking of COVID-19 Vaccine
 
-```
 ***Usage-***
+```
 1. Convert the SVG data recieved from server to PNG data
 2. Rename the file to captcha.png
 3. run the solve.py
